@@ -30,3 +30,9 @@ Welcome to the Pig Game! This is a simple two-player dice game implemented using
 
    ```bash
    git clone <repository-url>
+2.Open index.html in a web browser.
+
+## Built With
+HTML - HyperText Markup Language
+CSS - Cascading Style Sheets
+JavaScript - Programming language for the web
